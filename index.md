@@ -13,7 +13,7 @@ I am a assitant professer at the Institute of Automation, Chinese Academy of Sci
 
 ## News
 
-- **[Feb. 2023]** Our paper about incremental learning for robotics pick-and-place is accepted to RAL.
+- **[Aug. 2023]** Our paper about incremental learning for robotics pick-and-place is accepted to RAL.
 
 {% include_relative _includes/publications.md %}
 
