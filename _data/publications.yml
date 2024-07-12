@@ -1,12 +1,5 @@
 main:
 
-  - title: "Class incremental robotic pick-and-place via incremental few-shot object detection"
-    authors: <strong>Jieren Deng</strong>, Haojian Zhang, Jianhua Hu, Xingxuan Zhang, Yunkuan Wang
-    conference_short: RAL
-    conference: IEEE Robotics and Automation Letters, 2024.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10202179/
-    image: ./assets/img/irpap.png
-
   - title: "Zero-shot Generalizable Incremental Learning for Vision-Language Object Detection"
     authors: <strong>Jieren Deng</strong>, Haojian Zhang, Kun Ding, Jianhua Hu, Xingxuan Zhang, Yunkuan Wang
     conference_short: arXiv
@@ -14,3 +7,11 @@ main:
     pdf: https://arxiv.org/pdf/2403.01680
     code: https://github.com/JarintotionDin/ZiRaGroundingDINO
     image: ./assets/img/motivation_ivlod.png
+
+  - title: "Class incremental robotic pick-and-place via incremental few-shot object detection"
+    authors: <strong>Jieren Deng</strong>, Haojian Zhang, Jianhua Hu, Xingxuan Zhang, Yunkuan Wang
+    conference_short: RAL
+    conference: IEEE Robotics and Automation Letters, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10202179/
+    image: ./assets/img/irpap.png
+
