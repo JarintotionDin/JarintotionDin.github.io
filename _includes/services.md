@@ -8,6 +8,7 @@
 <!--   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 <!--   zhushi -->
   <li> NeurIPS 2024 </li> 
+  <li> ICLR 2025 </li> 
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
