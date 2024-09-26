@@ -14,6 +14,7 @@ I am a assitant professer at the Institute of Automation, Chinese Academy of Sci
 ## News
 
 - **[Aug. 2023]** Our paper about incremental learning for robotics pick-and-place is accepted to RAL.
+- **[Sep. 2024]** Our paper "Zero-shot Generalizable Incremental Learning for Vision-Language Object Detection" is accepted to RAL.
 
 {% include_relative _includes/publications.md %}
 
