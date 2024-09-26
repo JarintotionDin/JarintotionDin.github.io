@@ -3,7 +3,7 @@ main:
   - title: "Zero-shot Generalizable Incremental Learning for Vision-Language Object Detection"
     authors: <strong>Jieren Deng</strong>, Haojian Zhang, Kun Ding, Jianhua Hu, Xingxuan Zhang, Yunkuan Wang
     conference_short: NeurIPS 2024
-    conference:The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
+    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
     pdf: https://arxiv.org/pdf/2403.01680
     code: https://github.com/JarintotionDin/ZiRaGroundingDINO
     image: ./assets/img/motivation_ivlod.png
