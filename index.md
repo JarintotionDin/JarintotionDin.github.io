@@ -13,8 +13,8 @@ I am a assitant professer at the Institute of Automation, Chinese Academy of Sci
 
 ## News
 
+- **[Sep. 2024]** Our paper "Zero-shot Generalizable Incremental Learning for Vision-Language Object Detection" is accepted to NeurIPS.
 - **[Aug. 2023]** Our paper "Class incremental robotic pick-and-place via incremental few-shot object detection" is accepted to RAL.
-- **[Sep. 2024]** Our paper "Zero-shot Generalizable Incremental Learning for Vision-Language Object Detection" is accepted to RAL.
 
 {% include_relative _includes/publications.md %}
 
