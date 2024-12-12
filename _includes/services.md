@@ -9,6 +9,7 @@
 <!--   zhushi -->
   <li> NeurIPS 2024 </li> 
   <li> ICLR 2025 </li> 
+  <li> ICML 2025 </li> 
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
